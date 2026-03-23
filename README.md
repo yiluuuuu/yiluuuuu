@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | Next.js & Node.js Specialist</h3>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">🌐 Portfolio</a> •
+  <a href="https://yilkal-portfolio.vercel.app/">🌐 Portfolio</a> •
   <a href="mailto:Yilkalbewketu8@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com">💼 LinkedIn</a>
 </p>
